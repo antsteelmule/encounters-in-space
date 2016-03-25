@@ -45,9 +45,10 @@ As it wasn’t possible to export the data with tools like import.io I export th
 
 Finalization: Datavisualization
 ------------------
-To make visible when people of different teams met eachother and for how long, i used RAW. You can insert spreadsheets in this application and choose a template for a suitable layout. As it is an automatic process you have to doublecheck, that your data are in the right order and hierarchy. To find the right diagram, which shows the correct relation of the data you need to experiment for a while.
+To make visible when people of different teams met eachother and for how long, i used [RAW] (http://app.raw.densitydesign.org/).
+You can insert spreadsheets in this application and choose a template for a suitable layout. As it is an automatic process you have to doublecheck, that your data are in the right order and hierarchy. To find the right diagram, which shows the correct relation of the data you need to experiment for a while.
 
-In the end I customize the visual aspects like color, shape and text for all 50 Encounter- Diagrams. Here you can see two examples.
+In the end I customize the visual aspects like color, shape and text for all 50 Encounter- Diagrams manually. Here you can see two examples.
 
 ![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22assets%22]/2.2_encountersinspace_finalgraphic.jpg)
 
