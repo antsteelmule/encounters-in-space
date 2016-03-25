@@ -1,12 +1,42 @@
-*.class
+# MAC OSX
+.DS_Store
+# WIN
+Thumbs.db
+# nodejs and web dev
+node_modules
+bower_components
+# sublime sftp plugin
+sftp-config.json
+# sublime
+*.sublime-project
+*.sublime-workspace
+# processing
+sketch.properties
+build-tmp
+# codekit
+.codekit-cache
+# a file with private data
+private.json
+private
+# for extendscript ID dev
+pdfs
+.idlk
+# for CRAN
+# History files
+.Rhistory
+# Example code in package build process
+*-Ex.R
+# R data files from past sessions
+.Rdata
+# RStudio files
+.Rproj.user/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# GOLANG
+# After Effects
+Adobe\ After\ Effects\ Auto-Save/
+Adobe\ After\ Effects\ Auto-Speichern
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# Particle Photon
+*.bin
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+
