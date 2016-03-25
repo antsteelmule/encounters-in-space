@@ -24,7 +24,7 @@ All the data from the record are available online and you can find a lot of info
 
 ![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22assets%22]/1.3_goldenrecord_layout.png)
 
-After some feedback and discussion with all the course members, our supervisor Fabian and our external guest Lisa Charlotte Rost ... we decided together, that my idea is too abstract as it doesn’t has a direct connection to data from the ISS.
+After some feedback and discussion with all the course members, our supervisor Fabian and our external guest [Lisa Charlotte Rost] (https://github.com/lisacharlotterost) ... we decided together, that my idea is too abstract as it doesn’t has a direct connection to data from the ISS. Maybe I was lost in the infinite information space- good that I received some honest feedback (thanks, again).
 
 
 
