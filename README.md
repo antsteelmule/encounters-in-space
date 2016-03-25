@@ -18,14 +18,15 @@ First step: Presenting your idea
 
 For me it’s very interesting that the nasa developed  “The Golden Record” in the Seventies. It is a data collection (images, information, sounds) which should represent the human race to creatures in space. It’s a physical disk which is attached on the space probes Voyager 1 and 2.
 
-BILD
+![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22assets%22]/1.1_golden_record_cover.png)
 
 All the data from the record are available online and you can find a lot of information about the team, who created the conent too. I started to analyze all theese information and to interprete and judge them. I was getting fascinated by the idea to think about a second version of the record. Who could/should be in the team today? What content could be on the Golden Record Number Two?
 
-BILD
+![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22assets%22]/1.2_goldenrecord_concept.png)
 
 After some feedback and discussion with all the course members, our supervisor Fabian and our external guest Lisa Charlotte Rost ... we decided together, that my idea is too abstract as it doesn’t has a direct connection to data from the ISS.
 
+![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22assets%22]/1.3_goldenrecord_layout.png)
 
 One step back: Research (again)
 ---------------
@@ -34,14 +35,13 @@ During my second research I studied the expeditions of the several space shuttel
 
 Following notices of my first brainstorming about a project name and a graphic.
 
-BILD
+![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22[%5C%22assets%5C%22]%22]/2.1_encountersinspace_%20brainstorming.png)
 
 Continuation: Collecting Data
 -----------------
 I made a huge excel sheet (calendar with 6082 lines and 51 cloumns) to see who met eachother (only) in space. In a second spreadsheet you can find the people who where involved in each encounter.
 As it wasn’t possible to export the data with tools like import.io I export the data manually. 
 
-BILD
 
 Finalization: Datavisualization
 ------------------
@@ -49,7 +49,10 @@ To make visible when people of different teams met eachother and for how long, i
 
 In the end I customize the visual aspects like color, shape and text for all 50 Encounter- Diagrams. Here you can see two examples.
 
-BILD
+![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22assets%22]/2.2_encountersinspace_finalgraphic.jpg)
+
+
+![] (https://github.com/antsteelmule/encounters-in-space/blob/master/[%22assets%22]/2.3_encountersinspace_finalgraphic.jpg)
 
 My vision is to summarize all 50 graphics together into one. It would be interesting to have one huge diagram, where it would be possible that all data are still readable.
 
